@@ -1,0 +1,11 @@
+Well don't nay code in section few points, after watching the whole section:
+
+1. 2 types of ds -> primitive and non-primitive
+2. primitive -> int,float, char, boolean 
+3. non-primitive -> linear and non-linear
+4. linear -> static and dynamic
+5. static -> array (fixed memory)
+6. non-static -> linked list, stack , queue (dynamic memory)
+7. Types of algo -> simple recursion, divide and conqueror, dynamic programming, greedy, brute force, randomized.
+
+    PUSH YOURSELF, NO ONE ELSE GONNA DO IT FOR YOU.
