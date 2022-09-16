@@ -16,3 +16,5 @@ class powerOf2 {
         }
     }
 }
+
+/* power of 2 */
