@@ -9,9 +9,13 @@ class factorial {
     }
 
     public static int recursionMethod(int number) {
-        if (number == 1)
+        if (number < 1) {
+            return -1;
+        } else if (number == 1 || number == 0)
             return 1;
         else
             return number * recursionMethod(number - 1);
     }
 }
+
+/* factorial using the recursion */
