@@ -24,7 +24,7 @@ public class PatternRunner {
         // pattern12(4);
         // pattern13(4);
         // pattern14(3);
-        pattern15(4);
+        // pattern15(4);
     }
 
     public static void pattern1(int n) {
